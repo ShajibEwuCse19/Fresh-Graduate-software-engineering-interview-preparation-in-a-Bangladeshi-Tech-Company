@@ -97,7 +97,7 @@
 ## Important:
 - Ask your senior for a referral for your desired position (either a fresher position or an experienced position).
 - Must solve previous interview problems from Glassdoor. Search on Google for interview questions, and you'll find them on Glassdoor.
-- Create a beautiful resume where you will add your project links with short descriptions of your projects, programming skills, technical skills, awards, activities, and educational qualifications.
+- Create a beautiful **1-page resume** where you will add your project links with short descriptions of your projects, programming skills, technical skills, awards, activities, and educational qualifications.
 - How to represent a project in your GitHub repository. [Example Project Link](https://github.com/ShajibEwuCse19/Library-Management-System-Using-JAVA?tab=readme-ov-file) 
 - Important Post about BD job interview
   - [Link-1](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
