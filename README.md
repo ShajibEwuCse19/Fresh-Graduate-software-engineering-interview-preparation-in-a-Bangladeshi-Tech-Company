@@ -87,6 +87,7 @@
 - **LinkedIn** (career page of a company)
 - **Facebook Groups:**
   - [CSE, EEE, IT Jobs in Bangladesh](https://www.facebook.com/groups/cse.eee.it/)
+  - [Jobs in Bangladesh](https://www.facebook.com/groups/devforhire)
   - [Jobs in Bangladesh](https://www.facebook.com/groups/161616437580654/)
   - [Bangladesh Software Jobs](https://www.facebook.com/groups/1983722508577009/)
   - [Internships in Bangladesh](https://www.facebook.com/groups/internshipinbd/)
