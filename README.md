@@ -1,6 +1,5 @@
 # Fresh Graduate Software Engineering Interview Preparation
 
-# Interview Preparation
 
 ## 1. Programming Problem Solving
 
