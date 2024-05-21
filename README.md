@@ -66,7 +66,7 @@
 ## 5. Project-Related Questions from Your CV
 
 - Be prepared to discuss the frameworks, patterns, and technologies used in your projects.
-- Describe at least two projects where you implemented a user interface (UI), used a database, and performed CRUD operations.
+- Keep at least two projects in which you implemented a user interface (UI), used a database, and performed CRUD operations.
 
 ## 6. Basics of Version Control
 
