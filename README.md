@@ -117,7 +117,8 @@ Software Engineer, Pathao Ltd.
 
 # Disclaimer
 
-This post is based on my personal interview experiences and suggestions from employees currently working at top tech companies. While I hope you find this information helpful, I cannot guarantee that it will work for everyone. I strongly recommend verifying these tips and strategies with your expert seniors or mentors. Thank you for your understanding.
+> This post is based on my personal interview experiences and suggestions from employees currently working at top tech companies. While I hope you find this information helpful, I cannot guarantee that it will work for everyone. I strongly recommend verifying these tips and strategies with your expert seniors or mentors. Thank you for your understanding.
+
 
 
  
