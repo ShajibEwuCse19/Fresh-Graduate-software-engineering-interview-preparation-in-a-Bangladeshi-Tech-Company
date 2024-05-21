@@ -99,6 +99,8 @@
 - Ask your senior for a referral for your desired position (either a fresher position or an experienced position).
 - Must solve previous interview problems from Glassdoor. Search on Google for interview questions, and you'll find them on Glassdoor.
 - Create a beautiful resume where you will add your project links with short descriptions of your projects, programming skills, technical skills, awards, activities, and educational qualifications.
+- **This resume secured me interview calls from Pathao, Welldev, Brain Station 23, Selise, Samsung, and NerdDevs when I was a fresh graduate:**
+  [Link](https://drive.google.com/file/d/1ocz0km3qaM0PXlPBPcXqDl02D9ou7sHn/view?usp=drive_link)
 
   # About Me
 
