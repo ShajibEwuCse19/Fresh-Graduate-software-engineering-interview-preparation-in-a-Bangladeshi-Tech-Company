@@ -13,7 +13,7 @@
   - Queue, Priority Queue (Min/Max Heap) & Deque
   - Linked List
   - Complexity analysis (Big O notation)
-- **Most Important for 1% company (Samsung R&D, IQVIA etc.)**
+- **Important for 1% company (e.g. Samsung R&D, IQVIA etc.)**
   - Trees (Binary Tree, Binary Search Tree)
   - Sorting (Bubble, Insertion, Quick, Merge, etc.) and their complexity
   - DFS (Graph Traversal, Connected Component, Bi-coloring/Bipartite, Cycle Finding etc.)
