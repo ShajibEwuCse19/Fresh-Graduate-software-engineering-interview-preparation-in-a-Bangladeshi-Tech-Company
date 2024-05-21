@@ -21,7 +21,7 @@
   - DP (Fibonacci, nCr, 0/1 Knapsack, Coin Chnage, LCS, LIS)
   - Graph, DP hard problems
   
-- **Solve problems from Leetcode** ([problem list](https://neetcode.io/practice)) - solve 150 or 75 problems from neetcode curated problem list.
+- **Solve problems from Leetcode** ([problem list](https://neetcode.io/practice)) - first solve 150 or 75 problems from neetcode curated problem list.
 
 ## 2. OOP
 
