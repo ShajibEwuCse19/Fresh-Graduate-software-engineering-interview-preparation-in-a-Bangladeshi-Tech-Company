@@ -76,14 +76,13 @@
 ## 7. Basics OS and Networking - Less Important topic
 
 # Tech Company List
+
 ## Tech Company List:
------------------
 - [Tech Companies in Bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh?fbclid=IwZXh0bgNhZW0CMTAAAR0cHUi3i8RwIm9JSaxxX9ZyQY7Gx0d20KUbv_IBcYAC1btYdA22BMpy8rE_aem_AXSwaMOZTy1urNX8e2sVVav82a_dCsuIsuxNQ3T0M0f1Yq-9VHZxwBd0mAF3bfjLpMhZt_FdkhB_wX9RCX1XUw-m)
 - [Salary Ranges Offered by Bangladeshi Software Companies](https://tahanima.github.io/2024/02/02/salary-ranges-offered-by-bangladeshi-software-companies-for-different-positions/?fbclid=IwZXh0bgNhZW0CMTAAAR3P1gya6ZqoHITaVEu7pl5gG8ZCJeoLBD-Lrwn8Uc4JgSLNyK_A6erdR8o_aem_AXSD7nA5Zt5fOr142aBwwlEa1rtff5zzLGc-qGD368_FOvy2iTmUeXhyR-C_tz7NszZA8uS5gvlCjz7kSEythCel)
 - [Bangladeshi Tech Companies and Salaries](https://gist.github.com/menon92/eca283d729a899af1d0767baa0b40d25?fbclid=IwZXh0bgNhZW0CMTAAAR0mNxg8OtS6f9-Qqf-vWGwmWr3dkWb3ypY_A0KCJT59Hu48EkyXp6tHG9s_aem_AXTij4JTMPg7ymUTChCbkZsJ2vZLpD24VZWfH7GhwIm_RD9fZCMUIl3p-MBRPotmIsuWoUYYHA3vBWU91d65VMid)
 
 ## Job Searching:
---------------
 - **Company Website Career Page**
 - **LinkedIn** (career page of a company)
 - **Facebook Groups:**
@@ -107,12 +106,18 @@
   - [Link-1](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
 
 
-  # About Me
+# About Me
 
 **Md. Shajibul Islam**  
 Software Engineer, Pathao Ltd.
 
 - **LinkedIn**: [linkedin.com/in/shajibewucse19](https://www.linkedin.com/in/shajibewucse19/)
 - **Facebook**: [facebook.com/ShajibEwuCse19](https://www.facebook.com/ShajibEwuCse19/)
+
+
+# Disclaimer
+
+This post is based on my personal interview experiences and suggestions from employees currently working at top tech companies. While I hope you find this information helpful, I cannot guarantee that it will work for everyone. I strongly recommend verifying these tips and strategies with your expert seniors or mentors. Thank you for your understanding.
+
 
  
