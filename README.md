@@ -48,13 +48,13 @@
 - E-R Modeling
 - Attribulte, Relationship
 - RDBMS desing principles and normalization
-- **DDL (Data Definition Language)**
-- **DML (Data Manipulation Language)**
-- **DCL (Data Control Language)**
-- **TCL (Transaction Control Language)**
+- DDL (Data Definition Language)
+- DML (Data Manipulation Language)
+- DCL (Data Control Language)
+- TCL (Transaction Control Language)
 - What is meant by ACID properties in DBMS? Detailed explanation
 - **Join** (Left, Right, Full outer, Inner)
-- **Keys** (Primary key, Foreign Key, Composite key, Unique Key)
+- Keys (Primary key, Foreign Key, Composite key, Unique Key)
 - SQL vs NoSQL
 - Solve questions from Glassdoor
 
@@ -99,8 +99,12 @@
 - Ask your senior for a referral for your desired position (either a fresher position or an experienced position).
 - Must solve previous interview problems from Glassdoor. Search on Google for interview questions, and you'll find them on Glassdoor.
 - Create a beautiful resume where you will add your project links with short descriptions of your projects, programming skills, technical skills, awards, activities, and educational qualifications.
-- **This resume secured me interview calls from Pathao, Welldev, Brain Station 23, Selise, Samsung, and NerdDevs when I was a fresh graduate:**
+- Important Post about BD job interview
+  - [Link-1](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
+- **This resume secured me interview calls from Pathao, Welldev, Brain Station 23, Apps code, Selise, Samsung etc. top tech company when I was a fresh graduate:**
   [Link](https://drive.google.com/file/d/1ocz0km3qaM0PXlPBPcXqDl02D9ou7sHn/view?usp=drive_link)
+- Online CV/Resume maker website
+  - [Link-1](https://app.flowcv.com/dashboard)
 
   # About Me
 
@@ -109,4 +113,5 @@ Software Engineer, Pathao Ltd.
 
 - **LinkedIn**: [linkedin.com/in/shajibewucse19](https://www.linkedin.com/in/shajibewucse19/)
 - **Facebook**: [facebook.com/ShajibEwuCse19](https://www.facebook.com/ShajibEwuCse19/)
+
  
