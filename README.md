@@ -1,4 +1,4 @@
-# Fresh-Graduate-software-engineering-preparation-for-a-Bangladeshi-Tech-Company
+# Fresh Graduate Software Engineering Interview Preparation
 
 # Interview Preparation
 
