@@ -8,16 +8,18 @@
   - Array, String & Hashing
   - Two Pointers, Prefix Sum
   - Sliding Window
-  - Binary Search
+  - Searching (Linear, Binary) and their complexity
   - Stack
   - Queue, Priority Queue (Min/Max Heap) & Deque
   - Linked List
-  - Complexity analysis (Big O notation)
-- **Important for 1% company (e.g. Samsung R&D, IQVIA etc.)**
-  - Trees (Binary Tree, Binary Search Tree)
   - Sorting (Bubble, Insertion, Quick, Merge, etc.) and their complexity
+  - Complexity analysis (Big O notation)
+- **Important for a few companies (e.g., Samsung R&D, IQVIA, etc.)**
+  - Trees (Binary Tree, Binary Search Tree)
+  - Recursion and back-tracking
   - DFS (Graph Traversal, Connected Component, Bi-coloring/Bipartite, Cycle Finding etc.)
   - BFS (Unweighted shortest path, multi-source BFS, Bi-colorable etc.)
+  - Dijkstra, Bellman-ford
   - DP (Fibonacci, nCr, 0/1 Knapsack, Coin Chnage, LCS, LIS)
   - Graph, DP hard problems
   
