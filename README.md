@@ -30,7 +30,7 @@
 - Class, Object
 - Method, Constructor, Method overloading VS Method overriding, Constructor Overloading VS Constructor Overriding
 - Encapsulation
-- Access modifiers (public, private, protected, default - differences)
+- Access modifiers (public vs private vs protected vs Internal)
 - Polymorphism
 - Inheritance
 - Abstract class
